@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Styllen Fashion AI",
+  "description": "Next-generation fashion assistant with virtual try-on, AI styling, and outfit planning.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
